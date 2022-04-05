@@ -1,5 +1,5 @@
 describe(`simpleList`, () => {
-    it(`not implemented`, () => {
-        expect('hoge').toBe(`hoge`);
-    });
+  it(`not implemented`, () => {
+    expect('hoge').toBe(`hoge`);
+  });
 });

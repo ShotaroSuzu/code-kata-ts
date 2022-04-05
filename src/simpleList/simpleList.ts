@@ -1,5 +1,5 @@
 const simpleList = () => {
-    console.log('Not implemented!!!');
+  console.log('Not implemented!!!');
 };
 
 export default simpleList;
