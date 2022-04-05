@@ -1,5 +1,5 @@
 const greeting = (message: string): string => {
-    return `Hello ${message}!!!`;
+  return `Hello ${message}!!!`;
 };
 
 console.log(greeting('suzuki'));
