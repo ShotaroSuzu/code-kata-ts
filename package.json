@@ -6,7 +6,8 @@
     "fix:eslint": "eslint src --ext .ts --fix",
     "lint": "run-p lint:prettier lint:eslint",
     "lint:eslint": "eslint src --ext .ts",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
